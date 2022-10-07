@@ -4,6 +4,8 @@ Simple NodeJS Express Program get files as input from user and upload it to the 
 
 To install necessary packages and start the server: 
     
+    npm install && nodemon server.js
+    OR
     npm install && npm start
 
 Then go to [http://localhost:3000](http://localhost:3000). 
